@@ -1,0 +1,43 @@
+Trabajo Práctico N°1 - Git
+
+Nombre y Apellido: Sebastian Martinez
+Materia: Modelado de software
+Año: 2
+
+1. ¿Qué es Git y para qué se utiliza?
+Git es un sistema de control de versiones de proyectos (programas) crea un repositorio remoto que controla los cambios al código hecho por uno o varios programadores. En caso de haber algún error se puede recurrir a versiones antiguas de dicho programa.
+
+2. ¿Qué es GitHub y cuál es su relación con Git?
+
+Es una plataforma que nos permite subir código para compartirlo con otros programadores.  
+
+3. Crea una cuenta en GitHub y configura Git en tu máquina local.
+
+4. Crea un nuevo repositorio en GitHub llamado "trabajo-practico-N1".
+
+5. Clona el repositorio en tu máquina local.
+
+6. Agrega tres archivos .txt (a su elección) con contenido.
+
+7. Realiza un commit con un mensaje descriptivo y luego push los cambios al
+repositorio remoto en GitHub.
+
+8. Realiza una modificación en uno de los txt, agrega un nuevo archivo y
+elimina otro.
+
+9. Realiza un nuevo commit y push los cambios al repositorio remoto.
+
+10. Explica brevemente los comandos git add, git commit, git push, git pull y
+git clone.
+
+git add : se utiliza para subir los cambios hechos de forma local al repositorio de github.
+
+git commit : Crea un punto de partida para el proyecto, puede utilizarse como un punto de guardado al que se puede volver si es necesario.
+
+git push : Confirma y sube los archivos con cambios o nuevos (hechos con git add) que se agregaron al repositorio en github.
+
+git pull : Descarga cambios hechos en el repositorio de github al repositorio local en nuestras computadoras
+
+git clone : Nos permite hacer una copia de otro repositorio para poder hcaer cambios sin intervenir de forma directa al repositorio original.
+
+11. Url de GitHub
